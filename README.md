@@ -1,5 +1,5 @@
 # test-repo
 # test-repo
 # poneies
-*this is a test repo.
+* this is a test repo.
 

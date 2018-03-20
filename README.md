@@ -1,5 +1,5 @@
 # test-repo
 # test-repo
-# green
+# ponies
 * this is a test repo.
 
